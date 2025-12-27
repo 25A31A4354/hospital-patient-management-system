@@ -92,3 +92,11 @@ hospital
 * This project is designed as a first-year academic project.
 * Data is stored locally using file handling.
 * Patient records remain saved even after the program is closed.
+
+## Team Members
+- N.VARSHITH
+- K.HASHVANTH
+- G.NIKHILA
+- G.SUMA SRI
+- K.SRAVANI
+
